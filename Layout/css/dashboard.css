@@ -212,3 +212,17 @@ h1{
 	padding-right:0px;
 	margin:0px;
 }
+
+/*
+*	Hover
+*/
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #c4f1ff;
+}
+
+/*
+*	Cursor
+*/
+.cursorPointer{
+	cursor: pointer;	
+}
